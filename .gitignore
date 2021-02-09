@@ -1,0 +1,7 @@
+#virtual environment
+.env
+
+#VSCode Settings
+.vscode
+
+/aula1/Material
