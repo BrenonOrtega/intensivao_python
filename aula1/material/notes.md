@@ -8,7 +8,7 @@
     import pandas as pd
     dataset = pd.read_excel(*insira caminho do arquivo a ser lido aqui*)
     display(dataset) 
-    <code/>
+    </code>
     <p>comando "display(args)" do pandas exibe o conjunto de dados importada do arquivo.</p>
 
 </div>
@@ -25,3 +25,42 @@
     <p>Toda tabela no python é um dataframe e posso transformar um conjunto de dados em tabela utilizando a built in function "to_frame()" </p>
         <li>tabela.to_html() formata uma tabela para html</li>
 </ul>
+
+### Resultado final da aula: Atingido :rocket:
+<div>  
+    <p> Foi possível desenvolver a automação do processo da geração de relatórios e gerar os emails</p>
+    <p> 
+        subject: Resumo de Vendas - loja Iguatemi Esplanada
+        From: brenon.ortega@gmail.com
+        To: teste123@hotmail.com
+        contenty-type: text/html
+
+
+                <h1>Este é o resumo da loja Iguatemi Esplanada</h1>
+                <table border="1" class="dataframe">
+        <thead>
+            <tr style="text-align: right;">
+            <th></th>
+            <th>Quantidade</th>
+            <th>Valor Final</th>
+            <th>Ticket Médio</th>
+            </tr>
+            <tr>
+            <th>ID Loja</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <th>Iguatemi Esplanada</th>
+            <td>8580</td>
+            <td>1699681</td>
+            <td>198.098019</td>
+            </tr>
+        </tbody>
+        </table>
+                <p>Estou a disposição em caso de dúvidas</p>
+    </p>
+</div>
