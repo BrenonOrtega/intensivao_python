@@ -4,17 +4,22 @@
 
 
 #### Projetos desenvolvidos durante a semana do "Intensivão Python" da Hashtag Treinamentos.
-
-###### Do dia 08/02/2020 até 11/02/2020 a hashtag treinamentos ofereceu a semana "intensivão python" onde serão desenvolvidos 4 projetos utilizando a linguagem python e algumas de suas principais bibliotecas.
-###### Sendo estes:
-<p>
+<div>  
+    <p>
+        Do dia 08/02/2020 até 11/02/2020 a hashtag treinamentos ofereceu a semana "intensivão python" onde serão desenvolvidos 4 projetos utilizando a linguagem python e algumas de suas principais bibliotecas.
+    </p>
+    <p>
+        Sendo estes:
+    </p>
+    <p>
         <ul>
             <li>Automação de processos.</li>
             <li>Ciência de Dados.</li>
             <li>Web Scrapping</li>
             <li>Inteligência Artificial</li>
         </ul>
-</p>
+    </p>
+</div>
 
 ###  Tecnologias e libs utilizadas:
 
