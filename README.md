@@ -18,8 +18,8 @@
 
 ###  Tecnologias e libs utilizadas:
 
-[Python v3.9.1](https://www.python.org/)
-[Jupyter Notebook](https://jupyter.org/)
-[Pandas v1.2.1](https://pandas.pydata.org/)
-[ipykernel 5.4.3](https://pypi.org/project/ipykernel/)
-[openpyxl](https://openpyxl.readthedocs.io/en/stable/#)
+###### [Python v3.9.1](https://www.python.org/)
+###### [Jupyter Notebook](https://jupyter.org/)
+###### [Pandas v1.2.1](https://pandas.pydata.org/)
+###### [ipykernel 5.4.3](https://pypi.org/project/ipykernel/)
+###### [openpyxl](https://openpyxl.readthedocs.io/en/stable/#)
