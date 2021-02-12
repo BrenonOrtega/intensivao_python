@@ -4,4 +4,9 @@
 #VSCode Settings
 .vscode
 
-/aula1/Material/solucao
+#checkpoints do jupyter
+.ipynb_checkpoints
+
+#materiais específicos de aula
+/aula3/material/dataset
+/aula3/material/secrets

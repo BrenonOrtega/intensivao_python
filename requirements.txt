@@ -5,3 +5,6 @@ jupyter-notebook
 plotly
 ipython
 nbconvert
+seaborn
+plotly
+sklearn
